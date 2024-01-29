@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "reinventing-the-wheel-cs/1.0.0": {
+        "runtime": {
+          "reinventing-the-wheel-cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reinventing-the-wheel-cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

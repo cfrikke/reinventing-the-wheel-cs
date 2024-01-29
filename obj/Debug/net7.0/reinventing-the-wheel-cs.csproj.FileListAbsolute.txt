@@ -3,3 +3,13 @@
 /workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.AssemblyInfoInputs.cache
 /workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.AssemblyInfo.cs
 /workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.csproj.CoreCompileInputs.cache
+/workspaces/reinventing-the-wheel-cs/bin/Debug/net7.0/reinventing-the-wheel-cs
+/workspaces/reinventing-the-wheel-cs/bin/Debug/net7.0/reinventing-the-wheel-cs.deps.json
+/workspaces/reinventing-the-wheel-cs/bin/Debug/net7.0/reinventing-the-wheel-cs.runtimeconfig.json
+/workspaces/reinventing-the-wheel-cs/bin/Debug/net7.0/reinventing-the-wheel-cs.dll
+/workspaces/reinventing-the-wheel-cs/bin/Debug/net7.0/reinventing-the-wheel-cs.pdb
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.dll
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/refint/reinventing-the-wheel-cs.dll
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.pdb
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.genruntimeconfig.cache
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/ref/reinventing-the-wheel-cs.dll
