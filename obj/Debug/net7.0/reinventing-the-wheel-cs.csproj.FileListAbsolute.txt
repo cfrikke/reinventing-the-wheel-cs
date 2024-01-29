@@ -1,0 +1,5 @@
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.csproj.AssemblyReference.cache
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.AssemblyInfoInputs.cache
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.AssemblyInfo.cs
+/workspaces/reinventing-the-wheel-cs/obj/Debug/net7.0/reinventing-the-wheel-cs.csproj.CoreCompileInputs.cache
