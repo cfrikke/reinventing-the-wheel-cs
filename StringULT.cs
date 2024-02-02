@@ -24,7 +24,7 @@ public static class StringUtils
     }
     public static string MirrorImage(string s)
     {
-        string outcome
+        string outcome =""
     }
 }
 }
