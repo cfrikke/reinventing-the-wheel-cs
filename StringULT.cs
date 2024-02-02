@@ -25,7 +25,10 @@ public static class StringUtils
     public static string MirrorImage(string s)
     {
         string outcome ="";// Mirror Image starts here (Zoe -----> eoZ)
-        for ()
+        for (int i = s.Length - 1 > 0; i--)
+        {
+            
+        }
     }
 }
 }
