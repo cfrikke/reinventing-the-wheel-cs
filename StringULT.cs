@@ -12,7 +12,7 @@ public static class StringUtils
             if (s[i]>= 'a' && s[i] <= 'z')
             {
                 
-                outcome += (char)(s[i] - 32);
+                outcome += (char)(s[i] - 32); // Turns Lower to Upper
             }
             else
             {
@@ -21,6 +21,10 @@ public static class StringUtils
         }
 
         return outcome;
+    }
+    public static string MirrorImage(string s)
+    {
+        string outcome
     }
 }
 }
